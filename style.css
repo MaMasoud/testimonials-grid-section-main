@@ -21,7 +21,7 @@ Review paragraphs inside the quotations have the same color as well, but are at 
     font-family: 'Barlow Semi Condensed', sans-serif;
 }
 body{
-    background-color: hsl(0, 0%, 95%);
+    background-color: hsl(210, 46%, 95%);
     min-height: 100vh;
     display: flex;
     justify-content: center;
